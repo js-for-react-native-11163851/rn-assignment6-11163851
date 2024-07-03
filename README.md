@@ -34,9 +34,6 @@ Authentication: Implement user authentication to allow for user-specific carts a
 Backend Integration: Connect the app to a backend server for real-time updates and data synchronization.
 Enhanced UI: Improve the user interface with animations, transitions, and more detailed product information.
 
-![homePage](https://github.com/PAA-KWASI08/rn-assignment6-11163851/assets/170183141/2843b186-a36f-4902-8999-8f4a8e514f68)
-
-![CartPage](https://github.com/PAA-KWASI08/rn-assignment6-11163851/assets/170183141/0391aca5-1cf4-4f40-9b42-71c999eaa761)
 
 
 
