@@ -34,6 +34,9 @@ Authentication: Implement user authentication to allow for user-specific carts a
 Backend Integration: Connect the app to a backend server for real-time updates and data synchronization.
 Enhanced UI: Improve the user interface with animations, transitions, and more detailed product information.
 
+![homepage](https://github.com/js-for-react-native-11163851/rn-assignment6-11163851/assets/170243660/acf4ddba-9acb-4a73-a402-728c407471e8)
+![Cartpage](https://github.com/js-for-react-native-11163851/rn-assignment6-11163851/assets/170243660/f8df0ed4-18ef-461d-8203-75f02602ee29)
+
 
 
 
